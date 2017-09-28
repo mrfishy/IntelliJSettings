@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="TypeScript/Make 'private'" />
+  </component>
+</application>
