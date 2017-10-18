@@ -3,17 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>s</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.spe</mask>
       <mask>*.spec</mask>
@@ -24,10 +23,14 @@
       <mask>*.spts</mask>
       <mask>*.sts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
