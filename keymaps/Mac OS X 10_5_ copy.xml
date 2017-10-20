@@ -38,11 +38,18 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="shift back_space" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="NextEditorTab" />
+  <action id="UsageView.Include" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
 </keymap>
